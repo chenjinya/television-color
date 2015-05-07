@@ -1,10 +1,8 @@
-# Matrix
+# Television color demo
+
+show RBG effect
 
 
-keyboard:
-	**Enter** and **Space** let it stop or play.
-	Other will add the key value to list.
+[Demo](http://chenjinya.github.io/television)
 
-[Demo](http://chenjinya.github.io/matrix)
-
-![](https://raw.githubusercontent.com/chenjinya/matrix/master/screenshot.png)
+![](https://raw.githubusercontent.com/chenjinya/television-color/master/screenshot.png)
